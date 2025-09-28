@@ -1,0 +1,10 @@
+flask
+langchain
+langchain_community
+langchain_experimental
+pymupdf
+faiss-cpu
+ollama
+sentence_transformers
+langchain-core
+gunicorn
